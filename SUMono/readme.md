@@ -1,4 +1,4 @@
-  # SUMono: A Representative Modern Bengali Corpus
+# SUMono: A Representative Modern Bengali Corpus
 
 Terms and Conditions to use of SUPara Parallel Corpus
 
